@@ -16,6 +16,9 @@ body{
  color:white;
 }
 
+header {
+  margin: 2%;
+  }
 
 header .container{
   display:flex;
@@ -26,11 +29,17 @@ header .container{
 }
 
 header .logo{
+  width: 10%;
+}
+
+/*
+header .logo{
   margin-left: 5px;
   color: var(--vermelho);
   font-family: 'Arial Black', Times;
   font-size:40px;
 }
+*/
 
 header nav a{
   text-decoration:none;

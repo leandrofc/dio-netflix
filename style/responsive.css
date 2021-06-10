@@ -9,6 +9,15 @@
       width: 300px;
   }
 
+  header .logo{
+  width: 50%;
+  margin: 5%;
+}
+
+  nav{
+    margin-bottom: 5%;
+  }
+
 }
 
 @media screen and (min-width:1000px){
